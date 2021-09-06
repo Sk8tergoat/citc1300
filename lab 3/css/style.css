@@ -1,5 +1,5 @@
 body {
-    background-color: #5E5F62;
+    background-color: grey;
     font-size: 18px;
     font-family: 'Kaisei HarunoUmi', serif;
 }
@@ -17,7 +17,7 @@ img {
 
 header {
     padding: 60px 40px;
-    border-bottom: 4px solid orangered;
+    border-bottom: 4px solid blue;
     font-family: 'Kaisei HarunoUmi', serif;
 }
 
@@ -28,7 +28,7 @@ header h1 {
     }
 
 .col {
-    border: 4px solid orangered ;
+    border: 4px solid blue ;
     padding: 20px;
     margin: 20px;
     border-radius: 20px;
@@ -50,7 +50,7 @@ header h1 {
 footer {
     padding: 60px 0;
     text-align: center;
-    border-top: 4px solid orangered;
+    border-top: 4px solid blue;
     font-weight: bold;
     font-family: 'Kaisei HarunoUmi', serif;
 }
