@@ -1,5 +1,5 @@
 # citc1300
-Lab 2
+Labs
 <h1>Basic Web Projects</h1>
 
 <ul>
