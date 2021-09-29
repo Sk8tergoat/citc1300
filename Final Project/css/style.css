@@ -14,7 +14,7 @@ video {
     display: flex;
     margin: 20px auto;
     width: 700px;
-    height: 1200px;
+    height: auto;
 }
 
 /*Mobile Styles*/
